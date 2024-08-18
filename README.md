@@ -1,5 +1,6 @@
 # CarCatalog
 
+![image](https://github.com/user-attachments/assets/55b88162-27ed-4598-a5ac-1446921aa98f)
 
   <h1 align="center">A Car Showcase Website</h1>
   ## 📋 <a name="table">Table of Contents</a>
