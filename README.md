@@ -1,6 +1,8 @@
 # CarCatalog
 
-![image](https://github.com/user-attachments/assets/55b88162-27ed-4598-a5ac-1446921aa98f)
+![image](https://github.com/user-attachments/assets/b0bbf81e-4fbb-4628-91f6-0f621937dabe)
+![image](https://github.com/user-attachments/assets/8ea65b13-8940-4661-b409-66f19942f6a2)
+
 
   <h1 align="center">A Car Showcase Website</h1>
   ## 📋 <a name="table">Table of Contents</a>
